@@ -24,6 +24,6 @@ I'm Andrey, a student and professional procrastinator
 [![Andrey Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey80000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Check out my first attempt at creating a website
-[andrey80000.github.io](https://andrey80000.github.io/FirstNormalTry/)
+[andrey80000.github.io](https://andrey80000.github.io/FirstNormalTry/) (Not finished)
 
 ![](https://i.redd.it/8zgitogefis81.gif)
