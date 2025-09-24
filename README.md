@@ -15,3 +15,5 @@ I'm Andrey, a student and professional procrastinator
 ## 🕑 Future Projects
 - **C# Project:** A program for numerical solutions of differential equations  
 - **Game Development:** A space-themed game inspired by [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/)
+
+![](https://i.redd.it/rt2ov36tw4gb1.gif)
