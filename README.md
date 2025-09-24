@@ -18,6 +18,11 @@ I'm Andrey, a student and professional procrastinator
 - **C# Project:** A program for numerical solutions of differential equations  
 - **Game Development:** A space-themed game inspired by [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/)
 
+## 📊 Stats
+[![Andrey stats](https://github-readme-stats.vercel.app/api?username=Andrey80000)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Andrey Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey80000)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌐 Check out my first attempt at creating a website
 [andrey80000.github.io](https://andrey80000.github.io/FirstNormalTry/)
 
