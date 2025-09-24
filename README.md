@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Andrey, a student and professional procrastinator 😎  
+I'm Andrey, a student and professional procrastinator 
 
 ## 🛠 What I'm learning
 - **Languages:** C#, Python  
@@ -8,4 +8,10 @@ I'm Andrey, a student and professional procrastinator 😎
 - **Web development:** HTML, CSS, a bit of JavaScript & PHP
 
 ## ⚡ Hobbies
-- **Games:** Horrors, Factory Builders, Indie Games
+- **Games:** Horrors, Factory Builders, Various indie games
+- **Tech:** exploring gadgets, understanding how they work
+- **Math:** solving problems, learning new concepts
+
+## 🕑 Future Projects
+- **C# Project:** A program for numerical solutions of differential equations  
+- **Game Development:** A space-themed game inspired by [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/)
