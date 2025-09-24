@@ -16,4 +16,4 @@ I'm Andrey, a student and professional procrastinator
 - **C# Project:** A program for numerical solutions of differential equations  
 - **Game Development:** A space-themed game inspired by [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/)
 
-![](https://media.tenor.com/ub_o3zzAw2gAAAAM/roblox-script.gif)
+![Mood for future projects](https://media.tenor.com/ub_o3zzAw2gAAAAM/roblox-script.gif)
