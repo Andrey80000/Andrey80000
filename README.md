@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi there
 
-I'm Andrey a sudent and professional procrastinator.
+I'm Andrey a student and professional procrastinator.
