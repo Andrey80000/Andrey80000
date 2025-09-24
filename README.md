@@ -6,6 +6,7 @@ I'm Andrey, a student and professional procrastinator
 - **Languages:** C#, Python  
 - **Game development:** Godot
 - **Web development:** HTML, CSS, a bit of JavaScript & PHP
+[Check out my first attempt at creating a website](https://andrey80000.github.io/FirstNormalTry/)
 
 ![](https://i.redd.it/8zgitogefis81.gif)
 
